@@ -38,5 +38,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/nanthawat45/ci-golf-booking-app:${{ env.TAG_NAME }}
-            ghcr.io/nanthawat45/ci-golf-booking-app:latest
+            ghcr.io/mintraaa/ci-golf-booking-app:${{ env.TAG_NAME }}
+            ghcr.io/mintraaa/ci-golf-booking-app:latest
